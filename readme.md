@@ -48,5 +48,11 @@ Este projeto foi desenvolvido seguindo boas práticas para garantir organizaçã
 
 ---
 
+## Instruções do Projeto
+
+Você pode baixar ou visualizar o manual completo em PDF clicando no link abaixo:
+
+[Instruções do Projeto (PDF)](https://docs.google.com/document/d/1SH7eoV15AgYyUx7SCUOjO1r7DqmYO74z_vLwbwHRrcY/edit?usp=sharing)
+
 ## **Autor**
 Projeto desenvolvido por [Ricardo Vitor Castilho](https://github.com/RicardoVCastilho)
