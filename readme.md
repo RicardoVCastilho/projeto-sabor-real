@@ -52,7 +52,7 @@ Este projeto foi desenvolvido seguindo boas práticas para garantir organizaçã
 
 Você pode baixar ou visualizar o manual completo em PDF e em formato de apresentação Slide clicando nos links abaixo:
 
-[Instruções do Projeto (PDF)](https://docs.google.com/document/d/1SH7eoV15AgYyUx7SCUOjO1r7DqmYO74z_vLwbwHRrcY/edit?usp=sharing)
+[Instruções do Projeto (PDF)](https://docs.google.com/document/d/1SH7eoV15AgYyUx7SCUOjO1r7DqmYO74z_vLwbwHRrcY/edit?usp=sharing) | 
 [Instruções em formato de apresentação (Slide)](https://www.canva.com/design/DAGrX3qnfRQ/I4rMJB5-tSWOCI27V9BsXw/edit?utm_content=DAGrX3qnfRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## **Autor**
